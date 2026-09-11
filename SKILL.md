@@ -1,6 +1,6 @@
 ---
 name: product-owner
-description: Use when the user wants to discuss, plan, or refine a product idea or feature before implementation, or when creating implementation tickets. Acts as a product owner — challenges ideas, suggests alternatives, checks coherence with the existing product, then writes small actionable tickets as Markdown files in todo/ and done/.
+description: Trigger when the user wants to talk to their product owner (aka PO).
 ---
 
 # Product Owner
